@@ -1,4 +1,4 @@
-# 🦇 Portfólio | Portfolio - tggothicart 🩸
+# 🦇 Gallery | tggothicart 
 
 🩸 Repositório do meu portfólio pessoal com foco em design gráfico, ilustração digital e estética gótica/vitoriana.  
 🌐 Este site foi desenvolvido com HTML, CSS e JavaScript, e está hospedado via GitHub Pages.
@@ -30,7 +30,7 @@ This is a single-page portfolio project with a dark, gothic and vintage-inspired
 
 ## 🩸 Acesse o site | View the website
 
-🩸 (https://itsthaisigothart.github.io/portfolio)
+🩸 (https://tggothicart.github.io/gallery)
 
 ## ✉️ Contato | Contact
 
